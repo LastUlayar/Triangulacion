@@ -18,8 +18,8 @@ from FuncionesCalibraciónComentadas import Triangulacion
 from FuncionesCalibraciónComentadas import AbrirVideo
 from FuncionesCalibraciónComentadas import PredecirFrame
 
-ficheroImagenes1 = "Calibracion90/Camara1/*"
-ficheroImagenes2 = "Calibracion90/Camara2/*"
+ficheroImagenes1 = "Calibracion/Camara1/*"
+ficheroImagenes2 = "Calibracion/Camara2/*"
 
 filas = 4
 columnas = 7
